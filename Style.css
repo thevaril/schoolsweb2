@@ -1,0 +1,84 @@
+ody {
+    
+ background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);   
+}
+.title {
+    
+    font-size: 100;
+    color :blue;
+    text-shadow: darkblue;
+    font-family: 'Lato', sans-serif; 
+    text-align: center
+}
+
+.follow {
+    
+    font-size: 100;
+    color :blue;
+    text-shadow: darkblue;
+    font-family: 'Lato', sans-serif; 
+    text-align: center;
+}
+
+.holyfamily 
+{
+    
+    max-width: 100%;  
+height: auto;  
+}
+
+
+    
+}
+.contacttitle {
+    
+    font-size: 30;
+    color :white;
+    text-shadow: darkblue;
+    font-family: 'Lato', sans-serif; 
+    text-align: center;
+}
+.phone {
+    
+    font-size: 30;
+    color :white;
+    text-shadow: darkblue;
+    font-family: 'Lato', sans-serif; 
+    text-align: center;
+}
+
+.address {
+    
+    font-size: 30;
+    color :white;
+    text-shadow: darkblue;
+    font-family: 'Lato', sans-serif; 
+    text-align: center;
+}
+
+.email {
+    
+    font-size: 30;
+    color :white;
+    text-shadow: darkblue;
+    font-family: 'Lato', sans-serif; 
+    text-align: center;
+}
+
+.contact {
+    
+    font-size: 30;
+    color :white;
+    text-shadow: darkblue;
+    font-family: 'Lato', sans-serif; 
+    text-align: center;
+}
+    
+holyfamily  {
+    
+    width: 100%;
+    border: 2px solid gold;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
